@@ -9,6 +9,9 @@ This project is part of the **PwC Switzerland Power BI in Data Analytics Virtual
 
 Each dashboard provides valuable insights to help PwC Switzerland and its clients enhance operational efficiency, improve customer loyalty, and foster workplace inclusivity. By leveraging data-driven decision-making, this project identifies opportunities for optimization and strategic growth.  
 
+![Project Themes](https://raw.githubusercontent.com/babban52/Data-Driven-Excellence-Power-BI-Insights-for-Business-Growth/main/README%20assests/Project_Themes.png)
+
+
 ---
 
 ## **Installation & Usage Instructions**  
@@ -48,8 +51,10 @@ Developed for a **Telecom Retention Manager**, this dashboard provides key insig
 
 It enables proactive decision-making to retain customers and boost satisfaction.  
 
-🔗 **[Access Customer Retention Dashboard 1]**  
-🔗 **[Access Customer Retention Dashboard 2]**  
+![Customer Churn and Risk Analysis - 1](https://raw.githubusercontent.com/babban52/Data-Driven-Excellence-Power-BI-Insights-for-Business-Growth/main/README%20assests/Customer%20Churn%20and%20Risk%20Analysis-1.png)
+
+![Customer Churn and Risk Analysis - 2](https://raw.githubusercontent.com/babban52/Data-Driven-Excellence-Power-BI-Insights-for-Business-Growth/main/README%20assests/Customer%20Churn%20and%20Risk%20Analysis-2.png)
+ 
 
 ### **3. Diversity & Inclusion**  
 This dashboard supports the telecom client’s goal of **improving gender balance** at the executive level. It highlights:  
@@ -59,8 +64,10 @@ This dashboard supports the telecom client’s goal of **improving gender balanc
 
 It serves as a data-driven guide for fostering a more equitable workplace.  
 
-🔗 **[Access Diversity & Inclusion Dashboard 1]**  
-🔗 **[Access Diversity & Inclusion Dashboard 2]**  
+![Diversity & Inclusion - 1](https://raw.githubusercontent.com/babban52/Data-Driven-Excellence-Power-BI-Insights-for-Business-Growth/main/README%20assests/Diversity%20%26%20Inclusion-1.png)
+ 
+![Diversity & Inclusion - 2](https://raw.githubusercontent.com/babban52/Data-Driven-Excellence-Power-BI-Insights-for-Business-Growth/main/README%20assests/Diversity%20%26%20Inclusion-2.png)
+ 
 
 ---
 
