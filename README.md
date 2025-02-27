@@ -38,7 +38,7 @@ This dashboard provides a **detailed analysis of call centre performance**, focu
 
 It helps businesses identify inefficiencies and improve customer service operations.  
 
-🔗 **[Access the Call Centre Trends Dashboard]**  
+![Call Centre Trends](https://github.com/babban52/Data-Driven-Excellence-Power-BI-Insights-for-Business-Growth/blob/main/README%20assests/Call%20Centre%20Trends-1.png?raw=true) 
 
 ### **2. Customer Retention & Churn Analysis**  
 Developed for a **Telecom Retention Manager**, this dashboard provides key insights into:  
